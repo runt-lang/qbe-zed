@@ -1,0 +1,13 @@
+schema_version = 1
+id = "qbe"
+name = "QBE"
+version = "0.1.0"
+description = "QBE IL language support for Zed"
+authors = ["thejunt"]
+repository = "https://github.com/runt-lang/qbe-zed"
+
+[grammars.qbe]
+repository = "https://github.com/runt-lang/qbe-treesitter.git"
+rev = "cd5329fd12d5e90f6649348c4d42eb69a45587f9"
+
+[language_servers]
