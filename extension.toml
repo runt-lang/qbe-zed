@@ -8,7 +8,7 @@ repository = "https://github.com/runt-lang/qbe-zed"
 
 [grammars.qbe]
 repository = "https://github.com/runt-lang/qbe-treesitter.git"
-rev = "0a293ebb2ac51618fbfa540794aaa032503368a2"
+rev = "767dde6b3880efe22e0ea56f9ba708356242205b"
 
 [language_servers.qbe-lsp]
 name = "qbe-lsp"
