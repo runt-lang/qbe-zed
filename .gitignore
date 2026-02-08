@@ -1,2 +1,4 @@
 grammars/
 extension/
+target/
+Cargo.lock

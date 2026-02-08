@@ -16,13 +16,15 @@
 ] @keyword
 
 ; Control flow
-[
-  "jmp"
-  "jnz"
-  "ret"
-  "hlt"
-  "call"
-] @keyword
+(jmp) @keyword
+
+(jnz) @keyword
+
+(ret) @keyword
+
+(hlt) @keyword
+
+"call" @keyword
 
 ; Types
 (base_type) @type
